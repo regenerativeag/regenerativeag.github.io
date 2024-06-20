@@ -1,0 +1,9 @@
+site_name: Regenerative Agriculture
+theme:
+  name: material
+  palette:
+    primary: green
+use_directory_urls: false
+markdown_extensions:
+  - footnotes
+  - tables
