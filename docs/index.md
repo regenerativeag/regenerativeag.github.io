@@ -15,9 +15,9 @@ Whether you're a seasoned farmer or just starting out, our community is a collab
 
 We welcome people of various regenerative ag interests including: farming, education, technology, art, land stewardship, and more!
 
+<!-- TODO: host with github? -->
 ![Roller crimping](https://csfarmer.net/images/regenerative-field-001.jpg)
 
-<!-- TODO: host with github? -->
 <div class='highlight'>🌍 Be a part of the change! 🌏</div>
 
 If we come together and share our perspectives and experiences, we can&hellip;
