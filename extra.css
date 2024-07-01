@@ -1,0 +1,11 @@
+/* Center buttons that have the .center class */
+p:has(> a.md-button.center) {
+    text-align: center;
+}
+
+/* A way to emphasize lines without putting them in the table of contents */
+div.highlight {
+    font-size: 1.6em;
+    color: var(--md-primary-fg-color--dark);
+    text-align: center;
+}
