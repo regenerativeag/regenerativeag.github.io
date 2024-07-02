@@ -3,6 +3,10 @@ theme:
   name: material
   palette:
     primary: green
+extra:
+  analytics:
+    provider: google
+    property: G-21RC337R1E
 markdown_extensions:
   - footnotes
   - tables
