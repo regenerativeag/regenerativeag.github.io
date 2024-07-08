@@ -1,5 +1,6 @@
 ---
-title: Welcome
+title: Welcome to the Regenerative Agriculture Community
+description: regenerative agriculture community, building soil, organic matter and biodiversity, healthy and more productive soil, drought- and flood-resilience, decreased use of chemical inputs, clean air and water, enhanced wildlife habitat, soil carbon capture, combat climate change
 ---
 
 Regenerative agriculture is movement towards growing food and raising livestock in a way that enriches (instead of depletes) the ecosystems we farm in. Regenerative ag is a response to multiple impending global crises including depleted soils, destroyed land- and ocean-ecosystems, and climate change.
