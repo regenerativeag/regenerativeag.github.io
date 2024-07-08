@@ -1,6 +1,8 @@
 site_name: Regenerative Agriculture
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.svg
   palette:
     primary: green
 extra:

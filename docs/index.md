@@ -6,7 +6,7 @@ description: regenerative agriculture community, building soil, organic matter a
 Regenerative agriculture is movement towards growing food and raising livestock in a way that enriches (instead of depletes) the ecosystems we farm in. Regenerative ag is a response to multiple impending global crises including depleted soils, destroyed land- and ocean-ecosystems, and climate change.
 
 <!-- TODO: host with github? -->
-![Collage](https://csfarmer.net/images/regenerative-collage-001.jpg)
+![Collage](assets/images/regenerative-collage-001.jpg)
 
 Since November 2023, several regenerative agriculture enthusiasts have come together and begun growing the roots of a new online community. We share together and support each other. Through our conversations, we have created a cozy and relaxed environment for discussing regenerative ag.
 
@@ -17,7 +17,7 @@ Whether you're a seasoned farmer or just starting out, our community is a collab
 We welcome people of various regenerative ag interests including: farming, education, technology, art, land stewardship, and more!
 
 <!-- TODO: host with github? -->
-![Roller crimping](https://csfarmer.net/images/regenerative-field-001.jpg)
+![Roller crimping](assets/images/regenerative-field-001.jpg)
 
 <div class='highlight'>🌍 Be a part of the change! 🌏</div>
 
