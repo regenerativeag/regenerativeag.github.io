@@ -1,4 +1,4 @@
-site_name: Regenerative Agriculture
+site_name: Regenerative Agriculture Community
 theme:
   name: material
   logo: assets/logo.png
@@ -14,4 +14,4 @@ markdown_extensions:
   - tables
   - attr_list
 extra_css:
-  - extra.css
+  - assets/extra.css
