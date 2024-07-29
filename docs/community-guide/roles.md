@@ -1,9 +1,11 @@
-# Membership Roles
+---
+title: Membership roles
+---
 
-Membership roles give us progressively more possibilities for connection as we participate. For example, when you make your first post, you will be granted the Guest role which will give you access to a private room that is only visible to people who have recently posted.
+Membership roles give us progressively more possibilities for connection as we participate. For example, when you make your first post, you will be granted the **Guest** role which will give you access to a private room that is only visible to people who have recently posted.
 
-TODO delete this before going live... here's a visualization of what channels would be visible with what roles:
-https://docs.google.com/document/d/1lcegFC_Btulw7zvAHVNRASNJ3XTEfcnc2G23d2clCsg/edit
+> TODO delete this before going live... here's a visualization of what channels would be visible with what roles:
+> https://docs.google.com/document/d/1lcegFC_Btulw7zvAHVNRASNJ3XTEfcnc2G23d2clCsg/edit
 
 ## Visitor
 
@@ -52,13 +54,3 @@ Members who haven't posted for 60 days are transitioned to the **Inactive Member
 - Inactive members become Members again (instead of Visitors) when they post in #quiet-garden
 
 Inactive members who haven't posted for 180 days lose their nametag color and are transitioned to the Inactive role.
-
-## Staff Roles
-
-## Moderator
-
-Those who have a special role in keeping our community on-topic and safe. Moderators have permissions to delete messages, kick members, and ban members.
-
-## Admin
-
-Those who are responsible for responding to the voices in our community. Admins work together to implement change on behalf of our community.
