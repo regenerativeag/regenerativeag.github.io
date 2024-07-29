@@ -1,5 +1,5 @@
 /* Center buttons that have the .center class */
-p:has(> a.md-button.center) {
+p.center, p:has(> a.md-button.center) {
     text-align: center;
 }
 

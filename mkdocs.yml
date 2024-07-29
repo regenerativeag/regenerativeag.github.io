@@ -15,3 +15,15 @@ markdown_extensions:
   - attr_list
 extra_css:
   - assets/extra.css
+
+# explicitly defined nav to specify page order
+nav:
+  - index.md
+  - more.md
+  - regenerative-agriculture.md
+  - Community Guide:
+      - community-guide/index.md
+      - community-guide/growing-together.md
+      - community-guide/chatrooms.md
+      - community-guide/roles.md
+      - community-guide/contribute.md

@@ -1,5 +1,5 @@
 ---
-title: How to contribute to our community
+title: How to contribute
 ---
 
 Here's some ways you can help our community be more beneficial for everyone 💞
@@ -7,6 +7,7 @@ Here's some ways you can help our community be more beneficial for everyone 💞
 #### Share and connect
 - Share what's happening with your farm and projects, so we can learn from your journey.
 - Provide encouragement, validation, feedback, and ideas to fellow community members.
+- More options: [How to grow with us](./growing-together.md)
 
 #### Share our group with fellow regenerative farmers you think may be interested
 - You can share a personal discord invitation from the `#welcome` channel
