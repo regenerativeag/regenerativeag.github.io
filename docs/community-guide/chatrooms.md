@@ -51,13 +51,13 @@ A quiet room for inactive members. This is the only room visible to inactive mem
 ### **`#livestock-🐷`** 
 Discussions about regeneratively raised livestock including regenerative meat, fish, eggs, and dairy.
 
-### **`#broadacre-🍉`**
+### **`#broadacre-🌽`**
 Discussions about regeneratively growing bulk food and materials; regenerative cash crops, row-crops, and forage; multi-farm CSAs, farmers markets, food hubs, and distributors.
 
-### **`#orchard-🍎`**
+### **`#orchard-🍏`**
 Discussions about regeneratively growing fruit and nut perennials.
 
-### **`#garden-🥕`**
+### **`#garden-🍅`**
 Discussions about regenerative home gardens, urban gardens, market gardens, basement gardens, container gardens, single-farm CSAs, and community gardens.
 
 ### **`#test-results-amendments-and-inoculants-🦠`** 
