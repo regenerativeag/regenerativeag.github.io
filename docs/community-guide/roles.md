@@ -49,7 +49,7 @@ Those who are inactive...
 Members who haven't posted for 30 days are transitioned to the _Inactive Member_ role. Inactive Members have the same abilities as those who are inactive with two exceptions...
 
 - Inactive Members keep their name-tag color
-- Inactive Members become Members again (instead of Visitors) when they post in `#quiet-garden`
+- Inactive Members become Members again (instead of Visitors) when they react in `#quiet-garden`
 
 Inactive members who haven't posted for 365 days lose their name-tag color and are transitioned to the Inactive role.
 
