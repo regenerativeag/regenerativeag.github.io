@@ -11,7 +11,7 @@ Here's some ways you can help our community be more beneficial for everyone 💞
 
 ### Share our group with fellow regenerative practitioners
 - You can share a personal discord invitation from the `#welcome` channel
-- Or you can share our website: [regenerativeag.github.io](https://regenerativeag.github.io){ target="_blank" }
+- Or you can share our website: [regenagcoop.org](https://regenagcoop.org){ target="_blank" }
 
 ### Share your input, feedback, and ideas { id="contact"}
 - You can provide input when we occasionally propose important changes. Even just an emoji reaction can be quite validating and helpful 🙂
