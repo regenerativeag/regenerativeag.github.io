@@ -13,7 +13,8 @@ We are regenerative farmers and gardeners. We are also students, teachers, lands
 
 We come together to learn with our peers&mdash;to grow with fellow practitioners around the world. We believe in harmony. We share together and support each other because we believe we can find more prosperity and wellbeing by working together. [Learn more about our community](more.md).
 
-<div class="highlight">Find fellowship on your regenerative journey 💞</div>
+Find fellowship on your regenerative journey 💞
+{ .highlight }
 
 Whether you're a seasoned farmer or just starting out, our community is a collaborative place to connect with peers and grow together.
 
@@ -27,18 +28,20 @@ As we share with our peers, we can&hellip;
 - Increase the healing that regenerative agriculture has on our planet, our local communities, and ourselves.
 - Develop fulfilling relationships as we connect on restoring life through the way we choose to farm.
 
-<br/>
+&nbsp;
 
-<div class="highlight">We hope to meet you soon!</div>
+We hope to meet you soon!
+{ .highlight }
 
-<div class="highlight">🌏 🌍 🌎</div>
+🌏 🌍 🌎
+{ .highlight }
 
 We welcome you to come connect with us, exchange ideas, ask & discuss questions, and contribute to community projects. Let's grow together and make a difference!
 
-<br/>
+&nbsp;
 
 [Come check out our community][Join]{ target="_blank" .md-button .md-button--primary .center }
 
-<br/>
+&nbsp;
 
 [Join]: https://discord.com/invite/DNH834xXZg

@@ -2,11 +2,6 @@
 title: Chatroom Guide
 ---
 
-<!--
-TODO delete this before going live... here's a visualization of what channels would be visible with what roles:
- https://docs.google.com/document/d/1lcegFC_Btulw7zvAHVNRASNJ3XTEfcnc2G23d2clCsg/edit
--->
-
 These are the current chatrooms in our community. We would be glad to add more rooms as there's mutual interest!
 
 ### Legend
@@ -78,9 +73,9 @@ Ask and discuss any questions related to regenerative ag.
 ### **`#resources-📚`**
 Share and discuss regenerative ag books, podcasts, and channels, episodes, articles, social media accounts, posts, ...
 
+&nbsp;
 
-<br/>
-
-<p class="center">Next:</p>
+Next:
+{ .center }
 
 [Membership roles](roles.md){ .md-button .md-button--secondary .center }

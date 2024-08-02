@@ -42,8 +42,9 @@ Hearing your perspective will help, even if we've heard a similar perspective be
 
 We're currently working on our first community event. Come check back soon to learn more!
 
-<br/>
+&nbsp;
 
-<p class="center">Next:</p>
+Next:
+{ .center }
 
 [Chatroom Guide](chatrooms.md){ .md-button .md-button--secondary .center }

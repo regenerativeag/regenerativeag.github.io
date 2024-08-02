@@ -53,8 +53,9 @@ Members who haven't posted for 30 days are transitioned to the _Inactive Member_
 
 Inactive members who haven't posted for 365 days lose their name-tag color and are transitioned to the Inactive role.
 
-<br/>
+&nbsp;
 
-<p class="center">Next:</p>
+Next:
+{ .center }
 
 [How to contribute](contribute.md){ .md-button .md-button--secondary .center }

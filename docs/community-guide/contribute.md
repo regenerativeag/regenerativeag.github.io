@@ -13,8 +13,7 @@ Here's some ways you can help our community be more beneficial for everyone 💞
 - You can share a personal discord invitation from the `#welcome` channel
 - Or you can share our website: [regenerativeag.github.io](https://regenerativeag.github.io){ target="_blank" }
 
-### Share your input, feedback, and ideas
-<div id="contact"></div>
+### Share your input, feedback, and ideas { id="contact"}
 - You can provide input when we occasionally propose important changes. Even just an emoji reaction can be quite validating and helpful 🙂
 - We welcome you to post in `#connect`, `#community`, or `#community-improvement` with your feedback, suggestions, and/or ideas
 - You can message Leo or Josh directly in discord
