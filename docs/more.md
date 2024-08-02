@@ -2,8 +2,6 @@
 title: Learn more about our community
 ---
 
-> TODO: at least one pic in this doc
-
 ## Community of Practice
 
 We are regenerative practitioners (farmers and gardeners) who support each other. Many of us work mostly alone in our gardens and fields.
@@ -32,15 +30,4 @@ Moderators are those who have a special role in keeping our community on-topic a
 Leo was our last moderator, and we will seek to add more moderators in the near future!
 
 ### Admins
-Admins are those who are responsible for responding to the voices in our community. Admins work together to implement change on behalf of our community. 
-
-> TODO: update before going live
-> 2-3 sentences and photo for Josh. I will get a photo that is more true to date.
-
-> TODO: update before going live
-> 2-3 sentences and photo for Leo.
-
-> Examples of content:
->
-> - something that ties us to regenerative ag
-> - hopes and vision for the community
+Admins are those who are responsible for responding to the voices in our community. Admins work together to implement change on behalf of our community.
