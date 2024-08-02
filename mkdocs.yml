@@ -1,4 +1,4 @@
-site_name: Regenerative Agriculture
+site_name: Regenerative Agriculture Community
 theme:
   name: material
   logo: assets/logo.png
@@ -14,4 +14,17 @@ markdown_extensions:
   - tables
   - attr_list
 extra_css:
-  - extra.css
+  - assets/extra.css
+
+# explicitly defined nav to specify page order
+nav:
+  - index.md
+  - more.md
+  # commented out for now, as we don't need this for initial launch. Can be added and improved later.
+  # - regenerative-agriculture.md
+  - Community Guide:
+      - community-guide/index.md
+      - community-guide/growing-together.md
+      - community-guide/chatrooms.md
+      - community-guide/roles.md
+      - community-guide/contribute.md

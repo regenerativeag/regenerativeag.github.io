@@ -31,9 +31,8 @@ mdx-gh-links>=0.3
 mkdocs-autorefs>=0.4
 mkdocs-literate-nav>=0.5
 mkdocstrings>=0.19
-pymdown-extensions>=9.9
 pygments>=2.12
-pymdown-extensions>=9.4
+pymdown-extensions>=9.9
 
 # Requirements for plugins
 requests>=2.26
