@@ -27,7 +27,5 @@ We're all members, and we all contribute to our community. [Here's some ways we 
 ### Moderators
 Moderators are those who have a special role in keeping our community on-topic and safe for all people. Moderators have permissions to delete messages, kick members, and ban members.
 
-Leo was our last moderator, and we will seek to add more moderators in the near future!
-
 ### Admins
 Admins are those who are responsible for responding to the voices in our community. Admins work together to implement change on behalf of our community.
