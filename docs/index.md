@@ -9,7 +9,7 @@ Since November 2023, several regenerative farmers have come together and begun g
 
 ## We are regenerative practitioners
 
-We are regenerative farmers and gardeners. We are also students, teachers, landscapers, researchers, artists, media creators, programmers, ... who regenerate or support regeneration through our work. We all share a passion in regenerative agriculture. [Learn more about why regenerative brings us together](regenerative-agriculture.md).
+We are regenerative farmers and gardeners. We are also students, teachers, landscapers, researchers, artists, media creators, programmers, ... who regenerate or support regeneration through our work. We all share a passion in regenerative agriculture.
 
 We come together to learn with our peers&mdash;to grow with fellow practitioners around the world. We believe in harmony. We share together and support each other because we believe we can find more prosperity and wellbeing by working together. [Learn more about our community](more.md).
 
