@@ -26,7 +26,7 @@ You having a comfortable experience is the best way we think we'll get to hang o
 
 ## Check out our values
 
-Knowing about our community will help us have more to discuss together. We are a [democratic community of practice](../more.md). We regenerate soil and/or support those who regenerate. We are all [passionate about regenerative agriculture](../regenerative-agriculture.md).
+Knowing about our community will help us have more to discuss together. We are a [democratic community of practice](../more.md). We regenerate soil and/or support those who regenerate.
 
 ## Offer your input
 
