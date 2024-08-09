@@ -39,7 +39,7 @@ A room for saying hello and sharing a little about your interests and involvemen
 (🔒) Select your name tag color!
 
 ### **`#quiet-garden-🌷`** (_proposed_)
-A quiet room for inactive members. This is the only room visible to inactive members.
+A quiet room for inactive members. _React_ with a 👍 in this room to become a Visitor or Member again.
 
 ## Regenerative Agriculture
 
