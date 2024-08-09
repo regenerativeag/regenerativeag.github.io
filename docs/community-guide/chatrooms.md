@@ -73,6 +73,8 @@ Ask and discuss any questions related to regenerative ag.
 ### **`#resources-📚`**
 Share and discuss regenerative ag books, podcasts, and channels, episodes, articles, social media accounts, posts, ...
 
+_Proposed: this room would be a condensed version of the three existing resource rooms: `#books-and-series`, `#episodes-and-articles`, and `#social-media`_
+
 &nbsp;
 
 Next:
