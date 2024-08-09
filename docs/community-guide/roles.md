@@ -33,7 +33,7 @@ The _Active Member_ role is granted to those who have posted on at least 4 diffe
 
 In addition to what Guests can do, Active members can...
 
-- Post in rooms that are just for active members: `#community`, `#off-topic` and `#test-results-amendments-and-inoculants`
+- Post in rooms that are just for active members: `#community`, `#community-improvement`,  `#projects`, `#test-results-amendments-and-inoculants`, and `#off-topic`,.
 - Choose their name-tag color
 - Share voice messages
 - Create private threads
