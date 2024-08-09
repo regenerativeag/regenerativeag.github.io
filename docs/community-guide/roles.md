@@ -19,7 +19,7 @@ The _Guest_ role is granted to those have posted in the last 14 days.
 In addition to what Visitors can do, Guests can...
 
 - Post in `#connect`, a room just for guests and members
-- Share links
+- Share pictures and links
 - Create threads and polls
 - Use custom stickers and emojis
 
