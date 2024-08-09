@@ -43,8 +43,6 @@ Active Members who haven't posted in the last 30 days are transitioned to the Gu
 
 _Proposed: Once people put forth the effort to connect with us and become a member, we continue to recognize them as members, even when they are less active. Instead of transitioning back to a Guest, Active Members would be transitioned to the new "Member" role after 30 days of inactivity._
 
-## Proposed Roles
-
 ### Member (_proposed_)
 
 Active Members who don't post for at least 30 days are transitioned to the _Member_ role.
