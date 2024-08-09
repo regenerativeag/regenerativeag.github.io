@@ -5,7 +5,7 @@ title: Chatroom Guide
 These are the current chatrooms in our community. We would be glad to add more rooms as there's mutual interest!
 
 ### Legend
-_Rooms with a 🔒 are only visible to active members._
+_Rooms with a 🔒 are private, and are only visible to some roles. [Learn more about which roles can access which rooms](./roles.md)._
 
 _Proposed: Rooms with a 🗑 will have "disappearing messages" enabled. Messages in these rooms will be deleted after several days have gone by._
 
@@ -21,10 +21,10 @@ Important news and updates about our community.
 A room for saying hello and sharing a little about your interests and involvements in regenerative ag.
 
 ### **`#connect-💬`**
-(🗑) A private room for guests & active members to connect. _Proposed: Messages are deleted after 7 days._
+(🔒🗑) A private room for guests & members to connect. _Proposed: Messages are deleted after 7 days._
 
 ### **`#community-💞`**
-(🗑 🔒) A private space for active members to connect. _Proposed: Messages are deleted after 14 days._
+(🔒🗑) A private space for members to connect. _Proposed: Messages are deleted after 14 days._
 
 ### **`#projects-📔`**
 (🔒) Share about your projects and follow along others' projects. Feel free to create threads for large projects, short projects, and ideas.
@@ -33,13 +33,13 @@ A room for saying hello and sharing a little about your interests and involvemen
 (🔒) Discuss and collaborate on ideas for improving our community.
 
 ### **`#off-topic-🎨`**
-(🗑 🔒) Discuss anything not related to regenerative ag. Please keep it safe for children too! _Proposed: Messages are deleted after 7 days._
+(🔒🗑) Discuss anything not related to regenerative ag. Please keep it safe for children too! _Proposed: Messages are deleted after 7 days._
 
 ### **`#name-tag-colors-🌈`**
 (🔒) Select your name tag color!
 
 ### **`#quiet-garden-🌷`** (_proposed_)
-A quiet room for inactive members. _React_ with a 👍 in this room to become a Visitor or Member again.
+(🔒) A quiet room for inactive members. _React_ with a 👍 in this room to become a Visitor or Member again.
 
 ## Regenerative Agriculture
 
@@ -70,10 +70,10 @@ Discussions about growing trees alongside livestock and produce. Food forests, s
 ### **`#questions-❓`**
 Ask and discuss any questions related to regenerative ag.
 
-### **`#resources-📚`**
+### **`#resources-📚`** (_proposed_)
 Share and discuss regenerative ag books, podcasts, and channels, episodes, articles, social media accounts, posts, ...
 
-_Proposed: this room would be a condensed version of the three existing resource rooms: `#books-and-series`, `#episodes-and-articles`, and `#social-media`. Users could filter resources by tag: eg `Book`, `Episode`, `Article`, `Website`, `App`...
+_This room would be a condensed version of the three existing resource rooms: `#books-and-series`, `#episodes-and-articles`, and `#social-media`. We could filter resources by tag: eg `Book`, `Episode`, `Article`, `Website`, `App`..._
 
 &nbsp;
 

@@ -33,7 +33,8 @@ The _Active Member_ role is granted to those who have posted on at least 4 diffe
 
 In addition to what Guests can do, Active members can...
 
-- Post in rooms that are just for active members: `#community`, `#community-improvement`,  `#projects`, `#test-results-amendments-and-inoculants`, and `#off-topic`.
+- Post in member rooms: `#community`, `#community-improvement`, and `#projects`
+- Post in active member rooms: `#test-results-amendments-and-inoculants`, and `#off-topic`
 - Choose their name-tag color
 - Share voice messages
 - Create private threads
@@ -49,6 +50,7 @@ Active Members who don't post for at least 30 days are transitioned to the _Memb
 
 Members have the same permissions as Guests, however, Members...
 
+- Can post in member rooms: `#community`, `#community-improvement`, and `#projects`
 - Get to keep their name-tag color
 - Only need to post on 2 days in a 30-day period to regain the Active Member role
 
