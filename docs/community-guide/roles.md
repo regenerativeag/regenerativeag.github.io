@@ -2,7 +2,9 @@
 title: Membership roles
 ---
 
-Membership roles give us progressively more possibilities for connection as we participate. For example, when you make your first post, you will be granted the _Guest_ role which will give you access to a private a room which is only visible to people who have recently posted.
+Membership roles help us foster a more intimate community. They give us progressively more possibilities for connection as we participate.
+
+For example, when you make your first post, you will be granted the _Guest_ role which will give you access to a private a room which is only visible to people who have recently posted.
 
 ### Visitor
 
@@ -14,7 +16,7 @@ Visitors can...
 
 ### Guest
 
-The _Guest_ role is granted to those have posted in the last 14 days.
+The _Guest_ role is granted to those who have posted in the last 60 days.
 
 In addition to what Visitors can do, Guests can...
 
@@ -23,21 +25,31 @@ In addition to what Visitors can do, Guests can...
 - Create threads and polls
 - Use custom stickers and emojis
 
+Guests who haven't posted for 60 days are transitioned to the Visitor role.
+
+_Proposed: instead of being transitioned to the Visitor role after 60 days, Guests would be transitioned to the Inactive role after 14 days, and be placed into a new room, `#quiet-garden`. The intention is to provide a more intimate and rewarding space for us to connect and grow together. The `#quiet-garden` room also should provide more clarity for those who are inactive._ 
+
 ### Active Member
 
 The _Active Member_ role is granted to those who have posted on at least 4 different days in the last 60 days.
 
 In addition to what Guests can do, Active members can...
 
-- Post in `#community`, `#off-topic` and `#test-results-innoculants-and-amendments` &mdash; rooms just for active members
+- Post in rooms that are just for active members: `#community`, `#off-topic` and `#test-results-amendments-and-inoculants`
 - Choose their name-tag color
 - Share voice messages
 - Create private threads
 - Add custom emojis and stickers to the server
 
+Active Members who haven't posted in the last 30 days are transitioned to the Guest role.
+
+_Proposed: Once people put forth the effort to connect with us and become a member, we continue to recognize them as members, even when they are less active. Instead of transitioning back to a Guest, Active Members would be transitioned to the new "Member" role after 30 days of inactivity._
+
+## Proposed Roles
+
 ### Member (_proposed_)
 
-Active Members who don't post for at least 30 days are transitioned to the _Member_ role. 
+Active Members who don't post for at least 30 days are transitioned to the _Member_ role.
 
 Members have the same permissions as Guests, however, Members...
 
