@@ -2,9 +2,7 @@
 title: Membership roles
 ---
 
-Membership roles help us foster a more intimate community. They give us progressively more possibilities for connection as we participate.
-
-For example, when you make your first post, you will be granted the _Guest_ role which will give you access to a private a room which is only visible to people who have recently posted.
+Membership roles help us foster a more intimate community. They give us progressively more possibilities for connection as we participate. For example, when you make your first post, you will be granted access to a private a room which is only visible to people who have recently posted.
 
 ### Visitor
 
