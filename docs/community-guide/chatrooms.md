@@ -65,7 +65,7 @@ Discussion about anything related to water-cycles & hydrology.  Rain, runoff, aq
 Discussions about Regenerative Agriculture technologies.
 
 ### **`#agroforestry-🌳`**
-Discussions about growing trees alongside livestock and produce. food forests, silvopasture, forest gardening, alley cropping...
+Discussions about growing trees alongside livestock and produce. Food forests, silvopasture, forest gardening, alley cropping...
 
 ### **`#questions-❓`**
 Ask and discuss any questions related to regenerative ag.
