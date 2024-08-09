@@ -19,7 +19,7 @@ The _Guest_ role is granted to those have posted in the last 14 days.
 In addition to what Visitors can do, Guests can...
 
 - Post in `#connect`, a room just for guests and members
-- Share pictures and links
+- Share links
 - Create threads and polls
 - Use custom stickers and emojis
 
@@ -31,9 +31,9 @@ In addition to what Guests can do, Active members can...
 
 - Post in `#community`, `#off-topic` and `#test-results-innoculants-and-amendments` &mdash; rooms just for active members
 - Choose their name-tag color
-- Add custom emojis and stickers to the server
 - Share voice messages
 - Create private threads
+- Add custom emojis and stickers to the server
 
 ### Member (_proposed_)
 
