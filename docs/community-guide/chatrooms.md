@@ -39,7 +39,7 @@ A room for saying hello and sharing a little about your interests and involvemen
 (🔒) Select your name tag color!
 
 ### **`#quiet-garden-🌷`** (_proposed_)
-(🔒) A quiet room for inactive members. _React_ with a 👍 in this room to become a Visitor or Member again.
+(🔒) A quiet room for those who are inactive. _React_ with a 👍 in this room to become a Visitor or Member again.
 
 ## Regenerative Agriculture
 
@@ -73,7 +73,7 @@ Ask and discuss any questions related to regenerative ag.
 ### **`#resources-📚`** (_proposed_)
 Share and discuss regenerative ag books, podcasts, and channels, episodes, articles, social media accounts, posts, ...
 
-_This room would be a condensed version of the three existing resource rooms: `#books-and-series`, `#episodes-and-articles`, and `#social-media`. We could filter resources by tag: eg `Book`, `Episode`, `Article`, `Website`, `App`..._
+_Proposed: This room would be a condensed version of the three existing resource rooms: `#books-and-series`, `#episodes-and-articles`, and `#social-media`. If someone is interested in a particular resource type, they could filter by tags: `Book`, `Episode`, `Article`, `Website`, `App`..._
 
 &nbsp;
 

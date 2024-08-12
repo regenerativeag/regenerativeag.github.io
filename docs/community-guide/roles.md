@@ -6,11 +6,13 @@ Membership roles help us foster a more intimate community. They give us progress
 
 ### Visitor
 
-_Visitors_ are those who have just joined, and have no membership roles yet.
+_Visitors_ are those who have no membership roles. Currently, anyone who has not posted in over 60 days is a visitor.
 
 Visitors can...
 
 - Post (and react) in most rooms
+
+_Proposed: We propose adding new Member and Inactive Member roles to recognize those who have made the effort to join our community and participate, but have had to step away for some time._
 
 ### Guest
 
@@ -23,9 +25,9 @@ In addition to what Visitors can do, Guests can...
 - Create threads and polls
 - Use custom stickers and emojis
 
-Guests who haven't posted for 60 days are transitioned to the Visitor role.
+Guests who haven't posted for 60 days are transitioned back to the Visitor role.
 
-_Proposed: instead of being transitioned to the Visitor role after 60 days, Guests would be transitioned to the Inactive role after 14 days, and be placed into a new room, `#quiet-garden`. The intention is to provide a more intimate and rewarding space for us to connect and grow together. The `#quiet-garden` room also should provide more clarity for those who are inactive._ 
+_Proposed: To help us develop a more trusting and rewarding environment for members, Guests would be transitioned to the new Inactive role after 14 days of inactivity. See the description of the Inactive role below for more details._
 
 ### Active Member
 
@@ -40,13 +42,11 @@ In addition to what Guests can do, Active members can...
 - Create private threads
 - Add custom emojis and stickers to the server
 
-Active Members who haven't posted in the last 30 days are transitioned to the Guest role.
+Active Members who haven't posted in the last 30 days are transitioned back to the Guest role.
 
 _Proposed: Once people put forth the effort to connect with us and become a member, we continue to recognize them as members, even when they are less active. Instead of transitioning back to a Guest, Active Members would be transitioned to the new "Member" role after 30 days of inactivity._
 
 ### Member (_proposed_)
-
-Active Members who don't post for at least 30 days are transitioned to the _Member_ role.
 
 Members have the same permissions as Guests, however, Members...
 
@@ -63,7 +63,7 @@ Visitors who haven't posted for 7 days, and Guests who haven't posted for 14 day
 Those who are inactive...
 
 - Can only see `#welcome`, `#announcements`, and a special empty room called `#quiet-garden`
-- Can become a Visitor again by reacting to the post in `#quiet-garden`
+- Can become a Visitor again by reacting with a 👍 to the post in `#quiet-garden`
 
 ### Inactive Member (_proposed_)
 
@@ -72,9 +72,9 @@ Members who haven't posted for 60 days are transitioned to the _Inactive Member_
 Inactive Members have the same abilities as those who are inactive with two exceptions...
 
 - Inactive Members keep their name-tag color
-- Inactive Members become Members again (instead of Visitors) when they react in `#quiet-garden`
+- Inactive Members become Members again (instead of Visitors) when they react with a 👍 in `#quiet-garden`
 
-Inactive members who haven't posted for 365 days lose their name-tag color and are transitioned to the Inactive role.
+Inactive members who haven't posted for 365 days are transitioned to the Inactive role and lose their name-tag color.
 
 &nbsp;
 
