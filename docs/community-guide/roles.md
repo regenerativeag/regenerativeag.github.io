@@ -29,6 +29,8 @@ Guests who haven't posted for 60 days are transitioned back to the Visitor role.
 
 _Proposed: To help us develop a more trusting and rewarding environment for members, Guests would be transitioned to the new Inactive role after 14 days of inactivity. See the description of the Inactive role below for more details._
 
+_Proposed: Currently, posting is the only form of activity that counts towards gaining or keeping membership roles. We propose counting "reactions" as a form of activity too. Posting would be the only form of activity that would count towards gaining new membership roles. However posting and reacting would count towards keeping existing membership roles._
+
 ### Active Member
 
 The _Active Member_ role is granted to those who have posted on at least 4 different days in the last 60 days.
