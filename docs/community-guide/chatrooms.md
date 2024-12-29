@@ -55,7 +55,7 @@ Discuss and collaborate on ideas for improving our community.
 🔒 This room is visible to Members and Active Members.
 
 ### **`#off-topic-🎨`**
-Discuss anything _not_ related to regenerative ag. Please keep it safe for children too! 
+Discuss anything _not_ related to regenerative ag. Please keep it safe for children and teens too! 
 
 🔒 This room is only visible to Active Members.
 
@@ -72,7 +72,7 @@ A quiet room for those who are inactive. _React_ with a 👍 in this room to bec
 🔒 This room is visible to Inactive Members and those with the Inactive role.
 
 ### **`#voice-room-🗣`**
-A chatroom for real time spoken conversation.
+A voice chatroom for talking with Members.
 
 🔒 This room is visible to Members and Active Members.
 
