@@ -2,81 +2,77 @@
 title: Membership roles
 ---
 
-Membership roles help us foster a more intimate community. They give us progressively more possibilities for connection as we participate. For example, when you make your first post, you will be granted access to a private a room which is only visible to people who have recently posted.
+Membership roles help us foster a more comfortable and enjoyable space to connect in. They give us progressively more possibilities for connection as we participate. For example, when you make your first post, you will be granted access to a private a room which is only visible to people who have recently posted.
 
 ### Visitor
 
-_Visitors_ are those who have no membership roles. Currently, anyone who has not posted in over 60 days is a visitor.
+_Visitors_ are those who just joined our community. Visitors are also those who were recently Inactive.
 
 Visitors can...
 
 - Post (and react) in most rooms
 
-_Proposed: We propose adding new Member and Inactive Member roles to recognize those who have made the effort to join our community and participate, but have had to step away for some time._
+Visitors who haven't posted or reacted in 7 days are transitioned to the Inactive role.
 
 ### Guest
 
-The _Guest_ role is granted to those who have posted in the last 60 days.
+Once you create your first post, you will become our _Guest_.
 
 In addition to what Visitors can do, Guests can...
 
-- Post in `#connect`, a room just for guests and members
+- Post in `#connect`, a room just for Guests and Members
 - Share pictures and links
 - Create threads and polls
 - Use custom stickers and emojis
 
-Guests who haven't posted for 60 days are transitioned back to the Visitor role.
+Guests who haven't posted or reacted in 14 days are transitioned to the Inactive role.
 
-_Proposed: To help us develop a more trusting and rewarding environment for members, Guests would be transitioned to the new Inactive role after 14 days of inactivity. See the description of the Inactive role below for more details._
+### Member
 
-_Proposed: Currently, posting is the only form of activity that counts towards gaining or keeping membership roles. We propose counting "reactions" as a form of activity too. Posting would be the only form of activity that would count towards gaining new membership roles. However posting and reacting would count towards keeping existing membership roles._
+If you post on at least 4 _different_ days\* in the last 60 days, you will become a _Member_ of our community.
+
+In addition to what Guests can do, Members can...
+
+- Post in `#community`, `#community-improvement`, `#projects`, and `#test-results-amendments-and-inoculants`
+- Talk with other members in `#voice-room`
+- Choose a name-tag color
+
+Members who haven't posted or reacted in the last 60 days are transitioned to the Inactive Member role.
+
+_\* Days are measured in the GMT/UTC timezone. If you've posted on 4 different days and haven't gained the role, please try posting on another day._
 
 ### Active Member
 
-The _Active Member_ role is granted to those who have posted on at least 4 different days in the last 60 days.
+The _Active Member_ role is granted to those who have posted on at least 8 different days, and 4 different weeks, in the last 60 days.
 
-In addition to what Guests can do, Active members can...
+In addition to what Members can do, Active Members can...
 
-- Post in member rooms: `#community`, `#community-improvement`, and `#projects`
-- Post in active member rooms: `#test-results-amendments-and-inoculants`, and `#off-topic`
-- Choose their name-tag color
-- Share voice messages
+- Post in `#off-topic`
+- Share recorded voice messages
 - Create private threads
-- Add custom emojis and stickers to the server
+- Add custom emojis and stickers to our server
 
-Active Members who haven't posted in the last 30 days are transitioned back to the Guest role.
+Active Members who haven't posted or reacted in the last 30 days are transitioned back to the Member role. Grace period: You can become an Active Member again by making a post within 7 days of losing the Active Member role.
 
-_Proposed: Once people put forth the effort to connect with us and become a member, we continue to recognize them as members, even when they are less active. Instead of transitioning back to a Guest, Active Members would be transitioned to the new "Member" role after 30 days of inactivity._
+### Inactive
 
-### Member (_proposed_)
-
-Members have the same permissions as Guests, however, Members...
-
-- Can post in member rooms: `#community`, `#community-improvement`, and `#projects`
-- Get to keep their name-tag color
-- Only need to post on 2 days in a 30-day period to regain the Active Member role
-
-Grace period: Those who post within 3 days of losing their Active Member role instantly regain the role.
-
-### Inactive (_proposed_)
-
-Visitors who haven't posted for 7 days, and Guests who haven't posted for 14 days, are transitioned to the _Inactive_ role.
+Visitors who haven't posted or reacted in 7 days, and Guests who haven't posted or reacted in 14 days, are transitioned to the _Inactive_ role.
 
 Those who are inactive...
 
 - Can only see `#welcome`, `#announcements`, and a special empty room called `#quiet-garden`
 - Can become a Visitor again by reacting with a 👍 to the post in `#quiet-garden`
 
-### Inactive Member (_proposed_)
+### Inactive Member
 
 Members who haven't posted for 60 days are transitioned to the _Inactive Member_ role.
 
-Inactive Members have the same abilities as those who are inactive with two exceptions...
+Inactive Members have the same abilities as those who are Inactive with two exceptions...
 
 - Inactive Members keep their name-tag color
 - Inactive Members become Members again (instead of Visitors) when they react with a 👍 in `#quiet-garden`
 
-Inactive members who haven't posted for 365 days are transitioned to the Inactive role and lose their name-tag color.
+Inactive Members who haven't posted or reacted for 365 days are transitioned to the Inactive role and lose their name-tag color.
 
 &nbsp;
 

@@ -8,7 +8,7 @@ Here's some ways we recommend participating that will hopefully enable us to gro
 
 Maybe it's a resource you liked, a question you're pondering, something going on in your garden or fields.... We'd love to see a glimpse into your journey.
 
-If you're not sure where to share, we recommend `#connect` (for guests) and `#community` (for active members).
+If you're not sure where to share, we recommend `#connect` (for guests) and `#community` (for members).
 
 You're welcome to share with us via text, pictures, videos, and/or links!
 
