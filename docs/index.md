@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Regenerative Agriculture Community
+title: Welcome to the Regenerative Ag Coop
 description: regenerative agriculture community, building soil, organic matter and biodiversity, healthy and more productive soil, drought- and flood-resilience, decreased use of chemical inputs, clean air and water, enhanced wildlife habitat, soil carbon capture, combat climate change
 ---
 
