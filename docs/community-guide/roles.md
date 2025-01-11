@@ -35,6 +35,7 @@ In addition to what Guests can do, Members can...
 
 - Post in `#community`, `#community-improvement`, `#projects`, and `#test-results-amendments-and-inoculants`
 - Talk with other members in `#voice-room`
+- Share recorded voice messages
 - Choose a name-tag color
 
 Members who haven't posted or reacted in the last 60 days are transitioned to the Inactive Member role.
@@ -48,7 +49,6 @@ The _Active Member_ role is granted to those who have posted on at least 8 diffe
 In addition to what Members can do, Active Members can...
 
 - Post in `#off-topic`
-- Share recorded voice messages
 - Create private threads
 - Add custom emojis and stickers to our server
 
