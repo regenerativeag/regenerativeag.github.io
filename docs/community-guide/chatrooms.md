@@ -78,7 +78,7 @@ A quiet room for those who are inactive. _React_ with a 👍 in this room to bec
 
 🔒 This room is visible to Inactive Members and those with the Inactive role.
 
-### **`#voice-room-🗣`**
+### **`#voice-room`**
 A voice chatroom for talking with Members.
 
 🔒 This room is visible to Members and Active Members.
@@ -103,7 +103,7 @@ Discussions about regeneratively growing fruit and nut perennials.
 Discussions about regenerative home gardens, urban gardens, market gardens, basement gardens, container gardens, single-farm CSAs, and community gardens.
 
 ### **`#amendments-and-inoculants-🦠`** 
-Discussions about regenerative amendments, tests, and inoculants; Compost, JADAM, mulch, foliar sprays, inoculants, manure, minerals, bio-char, compost tea, SAP tests, soil tests...
+Discussions about regenerative amendments and inoculants; Compost, JADAM, mulch, foliar sprays, inoculants, manure, minerals, bio-char, compost tea, ...
 
 🔒 This room is visible to Members and Active Members.
 
@@ -117,7 +117,7 @@ Discussions about Regenerative Agriculture technologies.
 Discussions about growing trees alongside livestock and produce. Food forests, silvopasture, forest gardening, alley cropping...
 
 ### **`#test-results-🔬`**
-Share and discuss test results.
+Share and discuss test results. SAP test, soil tests, ...
 
 🔒 This room is visible to Members and Active Members.
 
