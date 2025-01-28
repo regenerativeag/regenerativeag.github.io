@@ -116,7 +116,7 @@ Discussions about Regenerative Agriculture technologies.
 ### **`#agroforestry-🌳`**
 Discussions about growing trees alongside livestock and produce. Food forests, silvopasture, forest gardening, alley cropping...
 
-### **`#test-results-🔬`
+### **`#test-results-🔬`**
 Share and discuss test results.
 
 🔒 This room is visible to Members and Active Members.
