@@ -9,7 +9,7 @@ These are the current chatrooms in our community. We would be glad to add more r
 ### Legend
 _Rooms with a 🔒 are private, and are only visible to some roles._
 
-_Proposed: Rooms with a 🗑 will have "disappearing messages" enabled. Messages in these rooms will be deleted after several days have gone by._
+_Rooms with a 🗑 have "disappearing messages" enabled. Messages in these rooms are deleted after several days have gone by._
 
 ### **`#welcome-👋`**
 A brief guide for new visitors.
@@ -35,14 +35,21 @@ A private room for guests & members to connect.
 
 🔒 This room is visible to Guests, Members, and Active Members.
 
-🗑 _Proposed: Messages will be deleted after 7 days._
+🗑 _Messages are deleted after 7 days._
 
 ### **`#community-💞`**
-A private space for members to connect.
+A private space for members to connect about regeneration and our community.
 
 🔒 This room is visible to Members and Active Members.
 
-🗑 _Proposed: Messages will be deleted after 60 days._
+🗑 _Messages are deleted after 60 days._
+
+### **`#chat-💭`**
+A very casual space for members to connect.
+
+🔒 This room is visible to Members and Active Members.
+
+🗑 _Messages are deleted after 3 days._
 
 ### **`#projects-📔`**
 Share about your projects and follow along others' projects. Feel free to create threads for large projects, short projects, and ideas.
@@ -50,7 +57,7 @@ Share about your projects and follow along others' projects. Feel free to create
 🔒 This room is visible to Members and Active Members.
 
 ### **`#community-improvement-🙏`**
-Discuss and collaborate on ideas for improving our community.
+Discuss and collaborate on ideas for improving and developing our community.
 
 🔒 This room is visible to Members and Active Members.
 
@@ -59,7 +66,7 @@ Discuss anything _not_ related to regenerative ag. Please keep it safe for child
 
 🔒 This room is only visible to Active Members.
 
-🗑 _Proposed: Messages will be deleted after 14 days._
+🗑 _Messages are deleted after 14 days._
 
 ### **`#name-tag-colors-🌈`**
 Select your name tag color!
@@ -76,7 +83,7 @@ A voice chatroom for talking with Members.
 
 🔒 This room is visible to Members and Active Members.
 
-🗑 _Proposed: Messages shared in this room will be deleted after 14 days._
+🗑 _Textual messages and attachments are deleted after 14 days._
 
 
 
@@ -95,12 +102,10 @@ Discussions about regeneratively growing fruit and nut perennials.
 ### **`#garden-🍅`**
 Discussions about regenerative home gardens, urban gardens, market gardens, basement gardens, container gardens, single-farm CSAs, and community gardens.
 
-### **`#test-results-amendments-and-inoculants-🦠`** 
+### **`#amendments-and-inoculants-🦠`** 
 Discussions about regenerative amendments, tests, and inoculants; Compost, JADAM, mulch, foliar sprays, inoculants, manure, minerals, bio-char, compost tea, SAP tests, soil tests...
 
 🔒 This room is visible to Members and Active Members.
-
-_Proposed: this room will be renamed to `#amendments-and-inoculants-🦠`. A new `#test-results-🔬` room will be created, and messages will be deleted after 30 days._
 
 ### **`#water-cycles-🌧`** 
 Discussion about anything related to water-cycles & hydrology.  Rain, runoff, aquifers, swales, water harvesting, water catchments... Large & small scale impacts of being thoughtful about how water moves on our land and around the world.
@@ -110,6 +115,13 @@ Discussions about Regenerative Agriculture technologies.
 
 ### **`#agroforestry-🌳`**
 Discussions about growing trees alongside livestock and produce. Food forests, silvopasture, forest gardening, alley cropping...
+
+### **`#test-results-🔬`
+Share and discuss test results.
+
+🔒 This room is visible to Members and Active Members.
+
+🗑 _Messages are deleted after 365 days._
 
 ### **`#resources-📚`** (_proposed_)
 Share and discuss regenerative ag books, podcasts, and channels, episodes, articles, social media accounts, posts, ...
