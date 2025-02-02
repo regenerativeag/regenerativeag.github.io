@@ -45,40 +45,34 @@ These are the current chatrooms in our community. We would be glad to add more r
 - A room for saying hello and sharing a little about your interests and involvements in regenerative ag.
 
 #### **`#💬-connect`** (🔒 🗑)
-- A private room for guests & members to connect.
-- > 🔒 _This room is visible to Guests, Members, and Active Members._
+- A private room for Guests and Active Members to connect.
+- > 🔒 _This room is visible to Guests and Active Members._
 - > 🗑 _Messages are deleted after 7 days._
 
 #### **`#💞-community`** (🔒 🗑)
-- A private space for members to connect about regeneration and our community.
-- > 🔒 _This room is visible to Members and Active Members._
+- A private space for Active Members to connect.
+- > 🔒 _This room is visible to Active Members._
 - > 🗑 _Messages are deleted after 7 days._
-
 
 #### **`#📔-projects`** (🔒)
 - Share about your projects and follow along others' projects. Feel free to create threads for large projects, short projects, and ideas.
-- > 🔒 _This room is visible to Members and Active Members._
+- > 🔒 _This room is visible to Active Members._
 
 #### **`#🤝-community-development`** (🔒)
 - Discuss and collaborate on ideas for improving and developing our community.
-- > 🔒 _This room is visible to Members and Active Members._
-
-#### **`#🎨-off-topic`** (🔒 🗑)
-- Discuss anything _not_ related to regenerative ag. Please keep it safe for children and teens too! 
-- > 🔒 _This room is only visible to Active Members._
-- > 🗑 _Messages are deleted after 7 days._
+- > 🔒 _This room is visible to Active Members._
 
 #### **`#🌈-name-tag-colors`** (🔒)
 - Select your name tag color!
-- > 🔒 _This room is visible to Members and Active Members._
+- > 🔒 _This room is visible to Active Members._
 
 #### **`#🌷-quiet-garden`** (🔒)
-- A quiet room for those who are inactive. _React_ with a 👍 in this room to become a Visitor or Member again.
+- A quiet room for those who are inactive. _React_ with a 👍 in this room to become a Visitor or Active Member again.
 - > 🔒 _This room is visible to Inactive Members and those with the Inactive role._
 
 #### **`#voice-room`** (🔒 🗑)
-- A voice chatroom for talking with Members.
-- > 🔒 _This room is visible to Members and Active Members._
+- A voice chatroom for talking with Active Members.
+- > 🔒 _This room is visible to Active Members._
 - > 🗑 _Textual messages and attachments are deleted after 3 days._
 
 
@@ -89,7 +83,7 @@ These are the current chatrooms in our community. We would be glad to add more r
 #### **`#🐷-livestock`** 
 - Discussions about regeneratively raised livestock including regenerative meat, fish, eggs, and dairy.
 
-#### **`#🌽-broadacre-`**
+#### **`#🌽-broadacre`**
 - Discussions about regeneratively growing bulk food and materials; regenerative cash crops, row-crops, and forage; multi-farm CSAs, farmers markets, food hubs, and distributors.
 
 #### **`#🍏-orchard`**
@@ -100,7 +94,7 @@ These are the current chatrooms in our community. We would be glad to add more r
 
 #### **`#🦠-amendments-and-inoculants`** (🔒)
 - Discussions about regenerative amendments and inoculants; Compost, JADAM, mulch, foliar sprays, inoculants, manure, minerals, bio-char, compost tea, ...
-- > 🔒 _This room is visible to Members and Active Members._
+- > 🔒 _This room is visible to Active Members._
 
 #### **`#🌧-water-cycles`** 
 - Discussion about anything related to water-cycles & hydrology.  Rain, runoff, aquifers, swales, water harvesting, water catchments... Large & small scale impacts of being thoughtful about how water moves on our land and around the world.
@@ -109,11 +103,11 @@ These are the current chatrooms in our community. We would be glad to add more r
 - Discussions about Regenerative Agriculture technologies.
 
 #### **`#🌳-agroforestry`**
-- Discussions about growing trees alongside livestock and produce. Food forests, silvopasture, forest gardening, alley cropping...
+- Discussions about growing trees alongside livestock and produce. Food forests, silvopasture, forest gardening, alley cropping ...
 
 #### **`#🔬-test-results`** (🔒 🗑)
 - Share and discuss test results. SAP test, soil tests, ...
-- > 🔒 _This room is visible to Members and Active Members._
+- > 🔒 _This room is visible to Active Members._
 - > 🗑 _Messages are deleted after 365 days._
 
 #### **`#resources-📚`** (_proposed_)

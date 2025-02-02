@@ -20,39 +20,31 @@ Once you create your first post, you will become our _Guest_.
 
 In addition to what Visitors can do, Guests can...
 
-- Post in `#connect`, a room just for Guests and Members
+- Post in `#💬-connect`, a room just for Guests and Active Members
 - Share pictures and links
 - Create threads and polls
 - Use custom stickers and emojis
 
 Guests who haven't posted or reacted in 14 days are transitioned to the Inactive role.
 
-### Member
-
-If you post on at least 4 _different_ days\* in the last 60 days, you will become a _Member_ of our community.
-
-In addition to what Guests can do, Members can...
-
-- Post in `#community`, `#community-improvement`, `#projects`, and `#test-results-amendments-and-inoculants`
-- Talk with other members in `#voice-room`
-- Share recorded voice messages
-- Choose a name-tag color
-
-Members who haven't posted or reacted in the last 60 days are transitioned to the Inactive Member role.
-
-_\* Days are measured in the GMT/UTC timezone. If you've posted on 4 different days and haven't gained the role, please try posting on another day._
-
 ### Active Member
 
-The _Active Member_ role is granted to those who have posted on at least 8 different days, and 4 different weeks, in the last 60 days.
+If you post on at least 4 _different_ days\* in the last 60 days, you will become an _Active Member_.
 
-In addition to what Members can do, Active Members can...
+Active Members have **full access** to our community.
 
-- Post in `#off-topic`
+In addition to what Guests can do, _Active Members_ can...
+
+- Post in `#💞-community`, `#🤝community-development`, `#📔-projects`, `#🦠-amendments-and-inoculants`, and `#🔬-test-results`
+- Talk with other active members in `#voice-room`
+- Choose a name-tag color
+- Share recorded voice messages
 - Create private threads
 - Add custom emojis and stickers to our server
 
-Active Members who haven't posted or reacted in the last 30 days are transitioned back to the Member role. Grace period: You can become an Active Member again by making a post within 7 days of losing the Active Member role.
+Active Members who haven't posted or reacted in the last 14 days are transitioned to the Inactive Member role.
+
+_\* Days are measured in the GMT/UTC timezone. If you've posted on 4 different days and haven't gained the role, please try posting on another day._
 
 ### Inactive
 
@@ -60,17 +52,17 @@ Visitors who haven't posted or reacted in 7 days, and Guests who haven't posted 
 
 Those who are inactive...
 
-- Can only see `#welcome`, `#announcements`, and a special empty room called `#quiet-garden`
-- Can become a Visitor again by reacting with a 👍 to the post in `#quiet-garden`
+- Can only see `#welcome`, `#announcements`, and a special empty room called `#🌷-quiet-garden`
+- Can become a Visitor again by reacting with a 👍 to the post in `#🌷-quiet-garden`
 
 ### Inactive Member
 
-Members who haven't posted for 60 days are transitioned to the _Inactive Member_ role.
+Active Members who haven't posted for 14 days are transitioned to the _Inactive Member_ role.
 
 Inactive Members have the same abilities as those who are Inactive with two exceptions...
 
 - Inactive Members keep their name-tag color
-- Inactive Members become Members again (instead of Visitors) when they react with a 👍 in `#quiet-garden`
+- Inactive Members become Active Members again (instead of Visitors) when they react with a 👍 in `#🌷-quiet-garden`
 
 Inactive Members who haven't posted or reacted for 365 days are transitioned to the Inactive role and lose their name-tag color.
 
