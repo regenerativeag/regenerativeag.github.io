@@ -54,7 +54,7 @@ These are the current chatrooms in our community. We would be glad to add more r
 - > 🔒 _This room is visible to Active Members._
 - > 🗑 _Messages are deleted after 7 days._
 
-#### ***`#⭐-favorites`
+#### **`#⭐-favorites`**
 - Share about your favorite books, resources, natives, crops, breeds, and more!
 - > 🔒 _This room is visible to Active Members._
 
