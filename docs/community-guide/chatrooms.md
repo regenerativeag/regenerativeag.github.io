@@ -74,7 +74,7 @@ These are the current chatrooms in our community. We would be glad to add more r
 - A quiet room for those who are inactive. _React_ with a 👍 in this room to become a Visitor or Active Member again.
 - > 🔒 _This room is visible to Inactive Members and those with the Inactive role._
 
-#### **`#voice-room`** (🔒 🗑)
+#### **`#🎙-voice-room`** (🔒 🗑)
 - A voice chatroom for talking with Active Members.
 - > 🔒 _This room is visible to Active Members._
 - > 🗑 _Textual messages and attachments are deleted after 3 days._
