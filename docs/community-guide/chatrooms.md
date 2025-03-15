@@ -54,6 +54,10 @@ These are the current chatrooms in our community. We would be glad to add more r
 - > 🔒 _This room is visible to Active Members._
 - > 🗑 _Messages are deleted after 7 days._
 
+#### ***`#⭐-favorites`
+- Share about your favorite books, resources, natives, crops, breeds, and more!
+- > 🔒 _This room is visible to Active Members._
+
 #### **`#📔-projects`** (🔒)
 - Share about your projects and follow along others' projects. Feel free to create threads for large projects, short projects, and ideas.
 - > 🔒 _This room is visible to Active Members._
@@ -74,8 +78,6 @@ These are the current chatrooms in our community. We would be glad to add more r
 - A voice chatroom for talking with Active Members.
 - > 🔒 _This room is visible to Active Members._
 - > 🗑 _Textual messages and attachments are deleted after 3 days._
-
-
 
 
 ### Regenerative Agriculture
@@ -110,9 +112,8 @@ These are the current chatrooms in our community. We would be glad to add more r
 - > 🔒 _This room is visible to Active Members._
 - > 🗑 _Messages are deleted after 365 days._
 
-#### **`#resources-📚`** (_proposed_)
-- Share and discuss regenerative ag books, podcasts, and channels, episodes, articles, social media accounts, posts, ...
-- _Proposed: This room will be a condensed version of the three existing resource rooms: `#books-and-series`, `#episodes-and-articles`, and `#social-media`. If someone is interested in a particular resource type, they could filter by tags: `Book`, `Episode`, `Article`, `Website`, `App`..._
+#### **`#📚-resources`**
+- Share and discuss regenerative ag books, podcasts, and channels, ...
 
 &nbsp;
 

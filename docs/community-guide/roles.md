@@ -6,7 +6,7 @@ Membership roles help us foster a more comfortable and enjoyable space to connec
 
 ### Visitor
 
-_Visitors_ are those who just joined our community. Visitors are also those who were recently Inactive.
+_Visitors_ are those who just joined our community.
 
 Visitors can...
 
@@ -52,8 +52,9 @@ Visitors who haven't posted or reacted in 7 days, and Guests who haven't posted 
 
 Those who are inactive...
 
-- Can only see `#welcome`, `#announcements`, and a special empty room called `#🌷-quiet-garden`
+- Can only see `#welcome`, `#rules`, `#announcements`, and a special empty room called `#🌷-quiet-garden`
 - Can become a Visitor again by reacting with a 👍 to the post in `#🌷-quiet-garden`
+- Can become a Guest again by reacting with a 👍 to the post in `#🌷-quiet-garden` _**IF** they have posted at least once in the last six months_.
 
 ### Inactive Member
 
