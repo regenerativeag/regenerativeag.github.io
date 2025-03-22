@@ -45,3 +45,5 @@ We welcome you to come connect with us, exchange ideas, ask & discuss questions,
 &nbsp;
 
 [Join]: https://discord.com/invite/DNH834xXZg
+
+_To ensure our community is **100% free**, our community is hosted on Discord. It's very easy to sign up!_

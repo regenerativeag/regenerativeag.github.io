@@ -41,6 +41,7 @@ In addition to what Guests can do, _Active Members_ can...
 - Share recorded voice messages
 - Create private threads
 - Add custom emojis and stickers to our server
+- Attend members-only events, such as the [Discussion Circle](/events/discussion-circle)
 
 Active Members who haven't posted or reacted in the last 14 days are transitioned to the Inactive Member role.
 

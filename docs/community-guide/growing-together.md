@@ -40,7 +40,7 @@ Hearing your perspective will help, even if we've heard a similar perspective be
 
 ## Participate in an event
 
-We're currently working on our first community event. Come check back soon to learn more!
+Learn more about our events here: [Events](/events/)
 
 &nbsp;
 

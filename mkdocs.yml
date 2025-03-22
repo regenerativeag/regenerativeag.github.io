@@ -28,3 +28,6 @@ nav:
       - community-guide/chatrooms.md
       - community-guide/roles.md
       - community-guide/contribute.md
+  - Events:
+      - events/index.md
+      - events/discussion-circle.md

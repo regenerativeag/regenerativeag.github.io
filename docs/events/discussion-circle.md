@@ -9,7 +9,7 @@ This event is structured so that it is accessible to all members, regardelss of 
 
 The discussion circle lasts 3-5 days.
 
-Every member who signs up for the event is expected to come online for **15 minutes per day** to participate.
+Every member who signs up for the event is expected to come online for **15 minutes (or so) per day** to participate.
 
 Every day, a new prompt will be shared in the event room. All event attendees will share something in response to the prompt **and** connect with at least one other person about what they shared.
 
